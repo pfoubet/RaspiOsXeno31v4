@@ -4,8 +4,9 @@
 #####################
 
 Raspbian Lite 10 Buster
-Linux kernel 4.19.120 avec i-Pipe et Xenomai Cobalt 3.1 
-pour RPi 4b !
+Linux kernel 4.19.120 avec i-Pipe et Xenomai Cobalt 3.1
+
+Pour RPi 4b !
 
 Cours de P. Foubet
 
